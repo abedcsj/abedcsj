@@ -13,6 +13,7 @@
 
 #### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
 #### ☁️ Deployment & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
