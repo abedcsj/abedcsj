@@ -1,16 +1,19 @@
 <h2 align="center">👋 Hi! I'm Sungjoon Cho</h2>
 <p align="center">백엔드 개발자 지망생 | Java / Spring 기반 개발자 | 학습과 성장 중입니다 🌱</p>
 
-<!-- 백준 티어 & 잔디 뱃지 -->
+<!-- ✅ 백준 티어 + 잔디 그래프 한 줄 -->
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="150"/>
   <img src="https://ghchart.rshah.org/abedcsj" alt="abedcsj's Github chart" height="150"/>
 </p>
 
-<!-- GitHub Stats + TopLangs + Solved.ac 한 줄 정렬 -->
+<!-- ✅ GitHub Stats + TopLangs + 백준 뱃지 한 줄 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=gruvbox&hide=contribs" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=gruvbox" height="165" />
+  <a href="https://solved.ac/abedcsj/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="165"/>
+  </a>
 </p>
 
 ---
@@ -31,5 +34,3 @@
 </p>
 
 ---
-
-
