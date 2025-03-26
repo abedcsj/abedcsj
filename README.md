@@ -1,5 +1,6 @@
 ## SUNGJOON-CHO 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj)](https://solved.ac/abedcsj/)
 
 ### 🛠️ Tech Stack  
 
