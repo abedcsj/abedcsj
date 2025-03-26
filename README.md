@@ -3,14 +3,14 @@
 
 <!-- ✅ 백준 티어 + 잔디 그래프 한 줄 -->
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="150" width="300"/>
-  <img src="https://streak-stats.demolab.com?user=abedcsj&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j"height="150" width="300"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="150" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=abedcsj&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" height="150" width="400"/>
 </p>
 
-<!-- ✅ GitHub Stats + TopLangs + 백준 뱃지 한 줄 -->
+<!-- ✅ GitHub Stats + TopLangs 한 줄 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=gruvbox&hide=contribs" height="165" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=gruvbox" height="165" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=tokyonight&hide=contribs" height="165" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=tokyonight" height="165" width="400" />
 </p>
 
 ---
@@ -29,5 +29,3 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
 </p>
-
----
