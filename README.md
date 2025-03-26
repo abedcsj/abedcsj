@@ -1,12 +1,5 @@
 ## SUNGJOON-CHO 👋
 
-<div align="center">
-  
-  <h2>👋Hello!</h2>
-
-</div>
-
----
 
 ### 🛠️ Tech Stack  
 
