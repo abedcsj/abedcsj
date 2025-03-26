@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-### 🛠️ Tech Stack & Language
+ 🛠️ Tech Stack & Language
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/>
