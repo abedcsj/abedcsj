@@ -11,9 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=gruvbox&hide=contribs" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=gruvbox" height="165" />
-  <a href="https://solved.ac/abedcsj/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="165"/>
-  </a>
 </p>
 
 ---
