@@ -1,6 +1,9 @@
 ## SUNGJOON-CHO 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=gruvbox&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj)](https://solved.ac/abedcsj/)
+
 
 ### 🛠️ Tech Stack  
 
