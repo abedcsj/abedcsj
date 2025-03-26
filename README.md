@@ -1,22 +1,12 @@
-<h2 align="center">👋Sungjoon Cho</h2>
-<p align="center">백엔드 개발자 지망생 | Java / Spring 기반 개발자 | 학습과 성장 중입니다 🌱</p>
+<h2 align="center">Sungjoon Cho</h2>
 
-<!-- ✅ 백준 티어 + 잔디 그래프 한 줄 -->
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abedcsj" height="150" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=abedcsj&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" height="150" width="400"/>
 </p>
 
-<!-- ✅ GitHub Stats + TopLangs 한 줄 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abedcsj&show_icons=true&theme=tokyonight&hide=contribs" height="165" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedcsj&layout=compact&theme=tokyonight" height="165" width="400" />
-</p>
-
----
-
 ### 🛠️ Tech Stack & Language
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/>
